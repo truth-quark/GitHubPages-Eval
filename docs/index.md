@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Test some links here
 
-[The second file is here](docs/second.md)
+[The second file is here](second.md)
 
 ### Markdown
 
