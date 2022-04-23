@@ -1,10 +1,8 @@
-----
-
+---
 layout: page
-title: "Second page"
+title: Second page
 permalink: /second
-
-----
+---
 
 # Second page
 
