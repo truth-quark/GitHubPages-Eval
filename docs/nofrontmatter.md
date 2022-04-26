@@ -1,11 +1,27 @@
-# This has no frontmatter
+# This page has no frontmatter
 
-Hopefully there is a test image below
+Here is a block of text. Followed by a line of text. Then more text. Here is a block of text. Followed by a line of text. Then more text. Here is a block of text. Followed by a line of text. Then more text. Here is a block of text. Followed by a line of text. Then more text. Here is a block of text. Followed by a line of text. Then more text. Here is a block of text. Followed by a line of text. Then more text.
 
-Some text ![Alt Text this is a test message](./assets/test_image.jpg) then more text.
+## Opening hours
 
-![Alternate path tried](/GitHubPages-Eval/assets/test_image.jpg)
+The office is open at the following times
 
+* Mondays: 9-5pm
+* Tuesdays: 9-5pm
+* Wednedays: 9-5pm
+* Thursdays: 9-5pm
+* Fridays: 9-6pm
+* Saturdays: CLOSED
+* Sundays: CLOSED
 
-3rd attempt relative image ![3rd PNG](./assets/test.png)
-4th attempt direct image ![3rd PNG](/GitHubPages-Eval/assets/test.png)
+## Images  tests
+
+A test image is below:
+
+Text on the left side of the image ![Alt Text this is a test message](./assets/test.png) then more text wrapping around the other side.
+
+Text above.
+
+![Alt PNG](./assets/test.png)
+
+Text below.
