@@ -15,3 +15,16 @@ This is a test:
 * One
 * Two
 * Three
+
+## Test some other markdown
+
+Checkboxes (needs to be in a list)
+
+[ ] unchecked / no dot point
+
+[X] checked / no dot point
+
+### Now with dot points
+
+* [ ] unchecked
+* [X] checked
